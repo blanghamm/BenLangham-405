@@ -1,0 +1,26 @@
+h1{
+  text-align: center;
+  font-style: normal;
+  font-family: sans-serif;
+  font: helvetica;
+  padding: 50;
+  color: #fff;
+}
+header{
+  justify-content: left;
+  align-items: left;
+  display: grid;
+  margin-top: 40px;
+  margin-left: 20px;
+  height: 100%;
+}
+body{
+  margin: 0;
+  padding: 0;
+  background-color: #000000;
+}
+#mysketch{
+  display: grid;
+  justify-content: center;
+
+}

@@ -36,7 +36,7 @@ for (var r = 25; r<52; r++){ //launch_main_image
   fill("#babcc2");
   noStroke();
   var t = (r-25)*190; // Using a variable here allowed me to increase the spacing of the rockets without having to insert multiple images.
-  image(img, t+50, 400, img.width/20, img.height/20); //Using a for loop to copy the image across the screen multiple times wihtout loading the image multiple times
+  image(img, t+50, 400, img.width/20, img.height/20); //Using a for loop to copy the image across the screen multiple times without loading the image multiple times
 }
 { //launch_33
 
